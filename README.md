@@ -2,7 +2,7 @@ A render of a jet engine, specifically a Trent XWB on an A350! Made with Blender
 
 All textures and references used are in the repo!
 
-Download from https://makerworld.com/en/models/609373
+Download from https://sketchfab.com/3d-models/jet-engine-render-46fe2c6c7d524bdd9508a0c8b675c12f
 
 Took ~5 hours to make and 15 minutes to render, some post processing was done in photoshop :)
 
